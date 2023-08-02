@@ -35,7 +35,7 @@ setup(
 	install_requires=[
 		'Liquirizia@git+https://github.com/yong5eon/Liquirizia.git',
 		'Liquirizia.EventRunner@git+https://github.com/yong5eon/Liquirizia.EventRunner.git',
-		'apscheduler>=3.9.1'
+		'apscheduler>=3.10.0'
 	],
 	python_requires='>=3.8'
 )
